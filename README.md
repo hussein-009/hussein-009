@@ -4,4 +4,4 @@
 
 All my Social Handel
 <br>
-<a href="https://www.linkedin.com/in/nikhil-bobade-4b1178184/" rel="nofollow"><img src="https://camo.githubusercontent.com/7783a61afd548807012be4fd557afc17efed17e70862f71e7da3fb0cb34db97b/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d6a75737469636f6e2d6c696e65616c2d636f6c6f722d6a75737469636f6e2f36342f3030303030302f65787465726e616c2d6c696e6b6564696e2d736f6369616c2d6d656469612d6a75737469636f6e2d6c696e65616c2d636f6c6f722d6a75737469636f6e2e706e67" data-canonical-src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/nikhil-bobade-4b1178184/" rel="nofollow"><img src="#" data-canonical-src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" style="max-width: 100%;"></a>
